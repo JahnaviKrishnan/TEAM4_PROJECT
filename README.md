@@ -10,7 +10,7 @@ This project was built using:
 - **HTML5**
 - **CSS3** (with a classy aesthetic and macOS-style transitions)
 - **JavaScript** (for dynamic cart functionality)
--**Backend- django admin panel + Node.js + Sqlite** 
+-**Backend**- django admin panel + Node.js + Sqlite** 
 - stored in Railways for coud database
 
 ---
